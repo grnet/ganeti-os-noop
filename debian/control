@@ -1,0 +1,12 @@
+Source: ganeti-os-noop
+Section: admin
+Priority: extra
+Maintainer: Apollon Oikonomopoulos <apoikos@gmail.com>
+Build-Depends: debhelper (>= 7.0.50)
+Standards-Version: 3.9.4
+
+Package: ganeti-os-noop
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, ganeti (>= 2.0)
+Description: A dummy no-op OS provider for ganeti
+ A dummy no-op OS provider for ganeti

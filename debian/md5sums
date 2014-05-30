@@ -1,0 +1,7 @@
+0a59c8c41a4e746ba5a56f2c2f2fa584  usr/share/ganeti/os/noop/ganeti_api_version
+faa25c6c7940f930d70538c673a39726  usr/share/ganeti/os/noop/rename
+faa25c6c7940f930d70538c673a39726  usr/share/ganeti/os/noop/import
+faa25c6c7940f930d70538c673a39726  usr/share/ganeti/os/noop/export
+faa25c6c7940f930d70538c673a39726  usr/share/ganeti/os/noop/create
+315adc08d833148d34b561a1aca2f02b  usr/share/doc/ganeti-os-noop/copyright
+9c2872162dc301ef3ef6618a133aaeea  usr/share/doc/ganeti-os-noop/changelog.Debian.gz
