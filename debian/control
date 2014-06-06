@@ -7,6 +7,6 @@ Standards-Version: 3.9.4
 
 Package: ganeti-os-noop
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}, ganeti (>= 2.0)
+Depends: ${shlibs:Depends}, ${misc:Depends}
 Description: A dummy no-op OS provider for ganeti
  A dummy no-op OS provider for ganeti
